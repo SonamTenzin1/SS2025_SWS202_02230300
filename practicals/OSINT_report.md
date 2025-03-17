@@ -32,12 +32,12 @@ The Bhutan Construction and Transport Authority (BCTA) was formed on December 30
 ### **3.1 Digital Footprint**
 
 - IP Address: 43.230.208.21
-- Hostnames:	bcta.gov.bt/www.bcta.gov.bt/www.rsta.gov.bt
-- Domains:	bcta.gov.bt/rsta.gov.bt 
+- Hostnames:	bcta.gov.bt / www.bcta.gov.bt / www.rsta.gov.bt
+- Domains:	bcta.gov.bt / rsta.gov.bt 
 
 - Organization:	Ministry of Information & Communications
 ![alt text](<../assets/Screenshot 2025-03-16 233911.png>)
-Upon using Shadon, I have noticed that the IP address has 3 open ports.
+Upon using Shadon, I have noticed that the IP address has 3 open ports; port 80, 443, and 8080. The website is hosted in Bhutan and the organization is under the Ministry of Information and Communications. The website is also using the HTTP/2 protocol.
 
 ![alt text](<../assets/Screenshot 2025-03-16 233938.png>)
 
@@ -46,7 +46,7 @@ Upon using Shadon, I have noticed that the IP address has 3 open ports.
 ![alt text](<../assets/Screenshot 2025-03-16 234115.png>)
 
 ![alt text](<../assets/Screenshot (42).png>)
-This is one of the RSTA directory that has been found in the website.
+This is one of the RSTA directory that has been found in the website. MinIO stores data as objects in a flat address space, ensuring high scalability and efficiency. It supports erasure coding for data protection, encryption for security, and multi-tenancy for large-scale deployments. MinIO is API-driven and integrates seamlessly with Kubernetes and various cloud storage frameworks. MinIO Console is for administration tasks like Identity and Access Management, Metrics and Log Monitoring, or Server Configuration
 
 ![alt text](<../assets/Screenshot (44).png>)
 This is the admin web page of the website.
@@ -54,6 +54,11 @@ This is the admin web page of the website.
 ![alt text](<../assets/Screenshot (45).png>)
 
 This website directory is most like the dreiectory of the website in which the highly confidential information is stored since the access to the web page is forbidden.
+
+![alt text](<../assets/Screenshot (46).png>)
+
+![alt text](<../assets/Screenshot (47).png>)
+
 ### **3.2 Geolocation**  
 
 - Country:	Bhutan
@@ -87,5 +92,7 @@ https://report.eralis.rsta.gov.bt/
 Website to IP lookup. (n.d.). NsLookup.io. https://www.nslookup.io/domains/bcta.gov.bt/webservers/
 
 BCTA. (n.d.). https://bcta.gov.bt/bctaweb/
+
+AS135666 Government Data Center (DITT/MOIC). (n.d.). https://ipinfo.io/AS135666
 
 ---
